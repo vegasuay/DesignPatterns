@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6ADC7E15-1F30-4B9A-8EB4-0A546E08353A}</ProjectGuid>
+    <ProjectGuid>{2C4F4913-1404-4210-A842-1942C9121555}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StrategyPatterns</RootNamespace>
-    <AssemblyName>StrategyPatterns</AssemblyName>
+    <RootNamespace>StrategyPattern</RootNamespace>
+    <AssemblyName>StrategyPattern</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
