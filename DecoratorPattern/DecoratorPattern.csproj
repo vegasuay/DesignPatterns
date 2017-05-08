@@ -42,16 +42,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beverage.cs" />
+    <Compile Include="CondimentDecorator.cs" />
+    <Compile Include="Decaf.cs" />
+    <Compile Include="Expresso.cs" />
+    <Compile Include="HouseBlend.cs" />
+    <Compile Include="Mocha.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SteamedMilk.cs" />
+    <Compile Include="Whip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="diagram1.PNG" />
-    <Content Include="diagram2.PNG" />
+    <Content Include="images\diagram1.PNG" />
+    <Content Include="images\diagram2.PNG" />
+    <Content Include="images\diagram3.PNG" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
