@@ -12,7 +12,7 @@ The observer pattern defines a one-to-many dependency between objects so that wh
 
 <b>Pattern Name:</b> Observer.<br />
 <b>Type:</b> Behavioral pattern.<br />
-<b>Used when:</b> .<br />
+<b>Used when:</b> the change of a state in one object must be reflected in another object without keeping the objects tight coupled.<br />
 <b>Ventajas:</b> .<br />
 <b>Desventajas:</b> .<br />
 <b>Similar pattern:</b> Iterator o Strategy.<br />
