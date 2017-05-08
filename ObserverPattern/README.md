@@ -4,6 +4,6 @@ The observer pattern defines a one-to-many dependency between objects so that wh
 
 <br />
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/ObserverPattern/diagram1.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/ObserverPattern/images/diagram1.PNG)
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/ObserverPattern/diagram2.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/ObserverPattern/images/diagram2.PNG)
