@@ -4,4 +4,6 @@ The Decorator Pattern attaches additional responsibilities to an object dynamica
 
 <br />
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/ObserverPattern/diagram1.PNG)
+<h4>The Decorator Pattern defined:</h4>
+<h4>The class diagram</h4>
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/diagram1.PNG)
