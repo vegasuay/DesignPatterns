@@ -5,4 +5,4 @@ The Strategy Pattern defines a family of algorithms, encapsulates each one, and 
 <br />
 <h2>Designing Duck Simulator</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/StrategyPattern/diagram1.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/StrategyPattern/images/diagram1.PNG)
