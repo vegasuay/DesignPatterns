@@ -11,3 +11,5 @@ The Decorator Pattern attaches additional responsibilities to an object dynamica
 <h2>The Startbuzz Coffe</h2>
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/diagram2.PNG)
+
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/diagram3.PNG)
