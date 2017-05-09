@@ -1,18 +1,16 @@
 <h2>Definition</h2>
 
-The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+<b>The Simple Factory Pattern</b> isn´t actually a design pattern, it´s more of a programming idiom.
 
 <br />
 
-<h2>The Decorator Pattern class diagram</h2>
+<h2>The Simple Factory Pattern class diagram</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram1.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram3.PNG)
 
-<h2>The Startbuzz Coffe</h2>
+<h2>The Pizza Store</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram2.PNG)
-
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram3.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
 
 <h2>Resumen</h2>
 
