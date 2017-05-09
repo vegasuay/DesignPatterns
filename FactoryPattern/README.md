@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram1.PNG)
 
-<h2>The Pizza Store Class Strecture</h2>
+<h2>The Pizza Store Class Structure</h2>
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
 
