@@ -1,6 +1,6 @@
 <h2>Definition</h2>
 
-The observer pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified an updated automatically
+<b>The Observer Pattern</b> defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified an updated automatically
 
 <br />
 
