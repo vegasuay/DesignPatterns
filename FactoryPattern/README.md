@@ -8,6 +8,10 @@
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram3.PNG)
 
+<h2>What Problem Factory Solve</h2>
+
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram1.PNG)
+
 <h2>The Pizza Store</h2>
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
