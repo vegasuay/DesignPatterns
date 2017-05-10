@@ -14,11 +14,13 @@
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram2.PNG)
 
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram3.PNG)
+
 <h2>Resumen</h2>
 
-<b>Pattern Name:</b> Decorator.<br />
-<b>Type:</b> structural pattern.<br />
-<b>Used when:</b> necesitamos añadir funcionalidades a una clase de forma dinámica, evitando las jerarquías de clases que se tienen construir en tiempo de compilación.<br />
-<b>Ventajas:</b> podemos añadir responsabilidades a un objeto de forma progresiva y dinámica. Más flexibilidad que con la herencia.<br />
-<b>Desventajas:</b> la principal es que el objeto Decorator no es exactamente igual que la clase que está decorando, por lo que tenemos que tener cuidado. Además nos podemos encontrar con un diseño de clases muy pequeñas, pero en gran cantidad.<br />
-<b>Similar pattern:</b> Adapter o Facade.<br />
+<b>Pattern Name:</b> Factory Method.<br />
+<b>Type:</b> creational pattern.<br />
+<b>Used when:</b> Una clase no puede anticipar el tipo de objeto que debe crear y quiere que sus subclases especifiquen dichos objetos.
+Hay clases que delegan responsabilidades en una o varias subclases. Una aplicación es grande y compleja y posee muchos patrones creacionales.<br />
+<b>Ventajas:</b> elimina la necesidad de introducir clases específicas en el código del creador. Solo maneja la interfaz Product, por lo que permite añadir cualquier clase ConcretProduct definida por el usuario.<br />
+<b>Similar pattern:</b> singleton.<br />
