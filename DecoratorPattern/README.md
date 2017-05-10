@@ -1,6 +1,6 @@
 <h2>Definition</h2>
 
-The Decorator Pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+<b>The Decorator Pattern</b> attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 
 <br />
 
@@ -8,7 +8,7 @@ The Decorator Pattern attaches additional responsibilities to an object dynamica
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram1.PNG)
 
-<h2>The Startbuzz Coffe</h2>
+<h2>The Startbuzz Coffe Class Structure</h2>
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram2.PNG)
 
