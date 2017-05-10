@@ -8,11 +8,11 @@
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram1.PNG)
 
-<h2>The Startbuzz Coffe</h2>
+<h2>The Pizza Store Class Structure</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram2.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/DecoratorPattern/images/diagram3.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram2.PNG)
 
 <h2>Resumen</h2>
 
