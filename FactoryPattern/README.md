@@ -16,3 +16,8 @@
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
 
+<h2>Other Example of Used</h2>
+
+Multiple db conexion
+
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram4.PNG)
