@@ -18,6 +18,9 @@ namespace FactoryMethodPattern
 
             //pizza = chicagoStore.orderPizza("cheese");
             //Console.WriteLine("ha pedido una pizza: " + pizza.name + "\n");
+
+            //wait
+            Console.ReadKey();
         }
     }
 }

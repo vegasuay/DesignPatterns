@@ -20,6 +20,9 @@ namespace DecoratorPattern
             beverage2 = new Mocha(beverage2);
             beverage2 = new Whip(beverage2);
             Console.WriteLine(beverage2.getDescription() + " €" + beverage2.cost());
+
+            //wait
+            Console.ReadKey();
         }
     }
 }
