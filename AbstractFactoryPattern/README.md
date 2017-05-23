@@ -4,17 +4,19 @@
 
 <br />
 
-<h2>The Factory Method Pattern class diagram</h2>
+<h2>The Abstract Factory Pattern class diagram</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram1.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram1.PNG)
 
-<h2>The Pizza Store Class Structure</h2>
+Other Class diagram
+
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram2.PNG)
+
+<h2>The Animal World Class Structure</h2>
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram2.PNG)
-
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryMethodPattern/images/diagram3.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram3.PNG)
 
 <h2>Resumen</h2>
 
