@@ -14,7 +14,7 @@ Other Class diagram
 
 <h2>The Animal World Class Structure</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/FactoryPattern/images/diagram5.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram4.PNG)
 
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram3.PNG)
 
