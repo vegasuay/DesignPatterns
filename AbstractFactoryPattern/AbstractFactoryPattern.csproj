@@ -64,6 +64,7 @@
     <Content Include="images\diagram1.PNG" />
     <Content Include="images\diagram2.PNG" />
     <Content Include="images\diagram3.PNG" />
+    <Content Include="images\diagram4.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
