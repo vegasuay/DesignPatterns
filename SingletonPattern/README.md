@@ -6,11 +6,11 @@
 
 <h2>The Singleton Pattern class diagram</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram1.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/SingletonPattern/images/Diagram1.PNG)
 
 <h2>Server Balancer Loader Class Structure</h2>
 
-![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/AbstractFactoryPattern/images/diagram2.PNG)
+![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/SingletonPattern/images/Diagram2.PNG)
 
 <h2>Resumen</h2>
 
