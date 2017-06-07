@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommandPattern.enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,26 +16,48 @@ namespace CommandPattern
         private readonly Account _fromAccount;
         private readonly Account _toAccount;
 
-        public bool IsComplete { get; set; }
+        public int ID { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public CommandState Status { get; set; }
 
-        public Transfer(Account fromAccount, Account toAccount, decimal amount)
+        public Transfer(int id, Account fromAccount, Account toAccount, decimal amount)
         {
+            ID = id;
+            CreatedOn = DateTime.UtcNow;
+
             _fromAccount = fromAccount;
             _toAccount = toAccount;
             _amount = amount;
 
-            IsComplete = false;
+            Status = CommandState.Unprocessed;
         }
 
         public void Execute()
         {
-            if(_fromAccount.Balance >= _amount)
+            if (_fromAccount.Balance >= _amount)
             {
                 _fromAccount.Balance -= _amount;
                 _toAccount.Balance += _amount;
 
-                IsComplete = true;
+                Status = CommandState.ExecuteSucceeded;
             }
+            else
+                Status = CommandState.ExecuteFailed;
+        }
+
+        public void Undo()
+        {
+            // Remove the money from the original "to" account, 
+            // and add it back to the original "from" account.
+            if (_toAccount.Balance >= _amount)
+            {
+                _toAccount.Balance -= _amount;
+                _fromAccount.Balance += _amount;
+
+                Status = CommandState.UndoSucceeded;
+            }
+            else
+                Status = CommandState.UndoFailed;
         }
     }
 }

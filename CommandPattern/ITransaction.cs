@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommandPattern.enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,14 +12,15 @@ namespace CommandPattern
     /// </summary>
     public interface ITransaction
     {
-        /// <summary>
-        /// IsCompleted will be used to let us know is the Command executed successfully
-        /// </summary>
-        bool IsComplete { get; set; }
-
+        int ID { get; set; }
+        DateTime CreatedOn { get; set; }
+        CommandState Status { get; set; }
+        
         /// <summary>
         /// The Execute method is what will be called by the Invoker
         /// </summary>
         void Execute();
+
+        void Undo();
     }
 }
