@@ -8,8 +8,6 @@ You can use the Command pattern to add work to a queue, to be done later. You ca
 
 <br />
 
-<h2>The Command Pattern class diagram</h2>
-
 ![alt text](https://github.com/vegasuay/DesignPatterns/blob/master/CommandPattern/images/Diagram1.PNG)
 
 <h2>Parts of the Command Design Pattern</h2>
